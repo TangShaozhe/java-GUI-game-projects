@@ -1,0 +1,6 @@
+4
+wandere r 69
+walk w 96
+slider s 101
+sneaky s 101
+s c r r s c s s
