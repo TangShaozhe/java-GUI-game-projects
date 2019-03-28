@@ -2,7 +2,7 @@
 
 here are codes for three games.
 
-from Creature -> Connect Four -> Maze (the difficulity keep increasing)
+from Creature -> Connect Four -> Maze (the difficulity keeps increasing)
 
 all projects can be directly downloaded and run in Netbeans
 
